@@ -1,0 +1,6 @@
+{
+  "botSettings": {
+    "token": "Enter your bot's token here",
+    "prefix": "Enter your bot prefix here"
+  }
+}
