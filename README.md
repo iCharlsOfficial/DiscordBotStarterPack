@@ -13,15 +13,15 @@ Step 3:
 In the PowerShell window that opens, type the following in order:
 
 
-> npm init
-> package name: (discordbotstarterpack) The name of your bot.
-> version (1.0.0) Skip this part by pressing Enter.
-> description: You can skip this part or enter a description.
-> entry point: (index.js) Skip this part directly by pressing Enter and the main file will be selected automatically.
-> test command: node index.js
-> Skip the git repository and keywords sections by pressing Enter.
-> author: In this part you can put your nickname etc.
-> license: (ISC): Skip this part by pressing Enter.
+npm init
+package name: (discordbotstarterpack) The name of your bot.
+version (1.0.0) Skip this part by pressing Enter.
+description: You can skip this part or enter a description.
+entry point: (index.js) Skip this part directly by pressing Enter and the main file will be selected automatically.
+test command: node index.js
+Skip the git repository and keywords sections by pressing Enter.
+author: In this part you can put your nickname etc.
+license: (ISC): Skip this part by pressing Enter.
 
 
 After you have done these, you will be asked whether you accept it.
